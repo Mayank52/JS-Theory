@@ -154,3 +154,4 @@ let obj = {
 let { boundFn1, boundFn2 } = obj.sayHi();
 boundFn1();
 boundFn2();
+
